@@ -1,6 +1,6 @@
 # `Hey there`
 
-I am a student of Data Science at the Chennai Mathematical Institute. I like to code and play music. See you around!
+I like to code and play music. See you around!
 
 ## `My tech stack`
 
