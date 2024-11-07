@@ -37,7 +37,7 @@ Other Tools and version control
 
 ## `GitHub Stats`
 
-[![Deepmalya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roudranil&show_icons=true&hide_title=true&ring_color=f38ba8&title_color=f2cdcd&text_color=cdd6f4&icon_color=74c7ec&border_color=f5c2e7&bg_color=313244,1e1e2e,181825&border_radius=8)](https://github.com/Roudranil/github-readme-stats)
+[![Roudranil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roudranil&show_icons=true&hide_title=true&ring_color=f38ba8&title_color=f2cdcd&text_color=cdd6f4&icon_color=74c7ec&border_color=f5c2e7&bg_color=313244,1e1e2e,181825&border_radius=8)](https://github.com/Roudranil/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roudranil&layout=compact&title_color=f2cdcd&text_color=cdd6f4&icon_color=74c7ec&border_color=f5c2e7&bg_color=313244,1e1e2e,181825&border_radius=8)](https://github.com/Roudranil/github-readme-stats)
 
